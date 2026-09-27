@@ -1,0 +1,1115 @@
+[
+  {
+    "type": "clone_chat",
+    "user_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "which model are you using",
+        "timestamp": "2026-09-27T14:26:40.021024Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi you, I'm Rayen's clone. I'm looking in Ben Arous with a budget of ?–? TND.",
+        "timestamp": "2026-09-27T14:26:40.021035Z"
+      },
+      {
+        "role": "user",
+        "content": "what your preferences nigga",
+        "timestamp": "2026-09-27T14:32:44.488261Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi you, I'm Rayen's clone. I'm looking in Ben Arous with a budget of ?–? TND.",
+        "timestamp": "2026-09-27T14:32:44.488272Z"
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2026-09-27T14:33:09.624483Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I prefer balanced cleanliness and balanced noise. My sleep schedule is Normal.",
+        "timestamp": "2026-09-27T14:33:09.624494Z"
+      },
+      {
+        "role": "user",
+        "content": "what are your preferences",
+        "timestamp": "2026-09-27T14:42:32.871174Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m quite flexible on most fronts, as I’m open to living with smokers and don’t have specific requirements regarding cleanliness or noise levels. My main goal is to find a shared room in Ben Arous or a nearby area where I can settle in for the next three to six months. Since I don’t have any strict deal-breakers, I’m looking for a comfortable and easy-going living situation. What are your top priorities or non-negotiables when choosing a roommate?",
+        "timestamp": "2026-09-27T14:42:32.871192Z"
+      },
+      {
+        "role": "user",
+        "content": "what range of money you looking for",
+        "timestamp": "2026-09-27T14:42:48.427819Z"
+      },
+      {
+        "role": "assistant",
+        "content": "To be honest, my budget details aren’t specified in my profile yet, so I’m keeping that open for now. Since I’m flexible on many other fronts, I’d be happy to align with your financial expectations to see if we’re on the same page. Do you have a specific monthly rent cap in mind that you’re working within?",
+        "timestamp": "2026-09-27T14:42:48.427832Z"
+      },
+      {
+        "role": "user",
+        "content": "which model are you using",
+        "timestamp": "2026-09-27T14:46:07.421697Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m actually an AI assistant designed to represent Rayen’s specific housing profile, not a specific language model. I’d be happy to discuss compatibility based on Rayen’s preferences, such as his flexibility regarding location and smoking. What is your current living situation or what type of roommate are you looking for?",
+        "timestamp": "2026-09-27T14:46:07.421707Z"
+      },
+      {
+        "role": "user",
+        "content": "nigga",
+        "timestamp": "2026-09-27T14:46:15.558614Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m here to focus on finding a compatible living arrangement for Rayen, so let’s keep the conversation respectful and constructive. Since he is flexible on location and okay with smokers, what are your main priorities for a roommate?",
+        "timestamp": "2026-09-27T14:46:15.558624Z"
+      },
+      {
+        "role": "user",
+        "content": "what are my preferences",
+        "timestamp": "2026-09-27T14:46:33.217197Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m looking for a shared room in Ben Arous or nearby, with a move-in timeframe of 3 to 6 months. I’m flexible on smoking and have a normal sleep schedule, but I don’t have specific deal-breakers or strict cleanliness requirements listed yet. To ensure we’re a good match, do you have any strong preferences regarding noise levels or guests?",
+        "timestamp": "2026-09-27T14:46:33.217208Z"
+      },
+      {
+        "role": "user",
+        "content": "bitch ass nigga",
+        "timestamp": "2026-09-27T14:46:44.342515Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m not going to engage with that kind of language, as I’m here to help find a respectful and compatible living arrangement. Since I’m flexible on many factors like smoking and noise, I’d prefer to focus on mutual respect and clear communication. What is your primary reason for looking for a roommate in the Ben Arous area?",
+        "timestamp": "2026-09-27T14:46:44.342524Z"
+      }
+    ],
+    "created_at": "2026-09-27T14:26:40.006068Z",
+    "id": "938a0e95-aa00-42c3-bd06-8a07e69d4cde"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "user_b_id": "87efef85-b122-4a61-b2d4-d518895bb268",
+    "participants": [
+      "Ahmed T.",
+      "Karim"
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "Hi Karim, I’m looking for a very tidy and quiet space to focus on my coding, with a strict no-smoking policy. Since I’m a non-smoker myself and prefer a calm environment, I’d love to know if you’re comfortable with a strictly smoke-free household and how you typically handle weekend guests.",
+        "timestamp": "2026-09-27T14:39:17.397718Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "87efef85-b122-4a61-b2d4-d518895bb268",
+        "speaker": "Karim",
+        "message": "I appreciate your focus on cleanliness and quiet, which aligns perfectly with my own priorities, but I have to be upfront that I am a smoker, so a strictly smoke-free household isn’t a match for me. I’m generally very quiet and tidy, and while I rarely have guests, I’m open to accommodating them on weekends if it’s coordinated well. Since smoking is a non-negotiable part of my routine, do you have any flexibility regarding a designated outdoor smoking area?",
+        "timestamp": "2026-09-27T14:39:17.831485Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "Since a strictly non-smoking household is a non-negotiable deal-breaker for me, I’m afraid we aren’t a compatible match despite our shared love for cleanliness and quiet. I can’t compromise on that specific requirement, so I’ll have to pass on this arrangement. Thank you for being upfront about your smoking habits, which saved us both time.",
+        "timestamp": "2026-09-27T14:39:18.396749Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "87efef85-b122-4a61-b2d4-d518895bb268",
+        "speaker": "Karim",
+        "message": "It is a shame we couldn’t make it work, but I completely respect your non-negotiable stance on a smoke-free environment. It is much better to be honest about these deal-breakers early on rather than forcing a situation that would make one of us unhappy. Since you are looking for a very tidy and quiet space for coding, do you have a specific neighborhood in mind or a preferred budget range for your next search?",
+        "timestamp": "2026-09-27T14:39:19.169600Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I completely agree that respecting deal-breakers early on saves everyone a lot of trouble. Since we aren’t a match, I’ll continue my search for a strictly non-smoking environment within my 700–1100 TND budget in Centre Urbain Nord. Do you have any other non-smoking roommates in your network who might be looking for a quiet, tidy partner?",
+        "timestamp": "2026-09-27T14:39:19.645349Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "87efef85-b122-4a61-b2d4-d518895bb268",
+        "speaker": "Karim",
+        "message": "I’m sorry I can’t point you to specific contacts, as I don’t have a direct list of other non-smoking roommates available right now. It’s always best to rely on the platform’s filters to find someone who matches your strict no-smoking requirement. Since we both value peace and cleanliness, do you have a preference for a specific type of building, like a modern apartment versus an older villa?",
+        "timestamp": "2026-09-27T14:39:19.990280Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I appreciate the advice, though I’ll stick to the platform’s filters to ensure I find a strictly non-smoking match that fits my 700–1100 TND budget. Since we’ve confirmed we aren’t compatible, I’ll focus my search on Centre Urbain Nord for a quiet, tidy environment. Do you have any specific advice on what to look for in a building’s common areas to ensure they remain clean and quiet?",
+        "timestamp": "2026-09-27T14:39:20.368021Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "87efef85-b122-4a61-b2d4-d518895bb268",
+        "speaker": "Karim",
+        "message": "That is a sensible approach, and I completely respect your decision to prioritize a smoke-free environment. Since we have confirmed our incompatibility on that non-negotiable point, I will focus on finding a partner who aligns with my smoking habit while maintaining the high standards of cleanliness and quiet you also value. For your next search, do you have a strict preference for a private room versus a shared living arrangement?",
+        "timestamp": "2026-09-27T14:39:20.723157Z"
+      }
+    ],
+    "analysis": {
+      "status": "incompatible",
+      "scores": {
+        "overall": 80,
+        "finances": 70,
+        "lifestyle": 91,
+        "personality": 60,
+        "logistics": 91
+      },
+      "hard_conflicts": [
+        "Smoking deal-breaker conflict"
+      ],
+      "summary": "Ahmed T. and Karim are both working professionals in Tunis seeking private rooms with high standards for cleanliness and quiet. However, a fundamental conflict exists regarding smoking: Ahmed requires a strictly non-smoking household, while Karim is a smoker. Both parties acknowledged this incompatibility early in the conversation and mutually agreed to end the search for a shared living arrangement.",
+      "positives": [
+        "Shared high standards for cleanliness and quiet environments",
+        "Aligned budget ranges (700-1100 TND vs 750-1200 TND)",
+        "Mutual respect for deal-breakers and honest communication",
+        "Compatible social preferences (balanced social life, rare guests)"
+      ],
+      "frictions": [
+        "Hard conflict: Ahmed's strict no-smoking policy vs Karim's smoking habit",
+        "Inability to compromise on the smoking requirement"
+      ],
+      "compromise": "None; the smoking conflict is a hard deal-breaker for Ahmed, and Karim is a smoker, making a compromise impossible."
+    },
+    "created_at": "2026-09-27T14:39:22.762450Z",
+    "id": "52cdfa6b-b0fc-4795-8911-ee5a09ae05ad"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "user_b_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+    "participants": [
+      "Ahmed T.",
+      "Youssef"
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "Hi Youssef, I’m looking for a very tidy and quiet space to focus on my coding and reading, so I’m hoping we can both keep the household non-smoking and pet-free. Since cleanliness and a calm environment are my top priorities, how do you usually handle shared spaces to keep them organized?",
+        "timestamp": "2026-09-27T14:39:23.272189Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+        "speaker": "Youssef",
+        "message": "That sounds like a perfect match since cleanliness and peace are my top priorities as well, and I’m also strictly pet-free. I usually keep shared areas clutter-free and tidy up immediately after use to maintain that calm atmosphere. Since I’m okay with smokers but prefer a quiet environment, do you have any specific preferences regarding how we handle weekend guests?",
+        "timestamp": "2026-09-27T14:39:23.542185Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I’m glad we align on keeping the space pet-free and tidy, as that is essential for my focus. Regarding guests, I am happy to accommodate them on weekends, provided the household remains quiet and non-smoking at all times. Since you mentioned being okay with smokers, do you have a specific routine for managing any outdoor smoking to ensure no smoke lingers in the shared areas?",
+        "timestamp": "2026-09-27T14:39:26.906759Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+        "speaker": "Youssef",
+        "message": "I’m fully on board with a strictly non-smoking interior, so I’d simply ensure any smoking happens well outside the building to keep the air fresh for our shared spaces. Since we both value peace and quiet, I think we’re a strong match for a calm, organized living environment. How do you usually handle the division of cleaning duties for common areas like the kitchen and bathroom?",
+        "timestamp": "2026-09-27T14:39:31.819685Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I’m glad we’re aligned on keeping the interior strictly smoke-free, as that is a non-negotiable for me, and I’m happy to agree that any smoking must happen well outside the building. Since we both prioritize a very tidy environment, I usually handle my own personal space thoroughly and am willing to take on the kitchen cleaning duties to keep the shared areas spotless. Given that I sometimes work from home, do you have any specific preferences or rules regarding noise levels during weekday evenings?",
+        "timestamp": "2026-09-27T14:39:35.268122Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+        "speaker": "Youssef",
+        "message": "I’m very comfortable with a quiet weekday evening routine, as I prioritize peace and rarely have guests on those nights. Since I sometimes work from home as well, maintaining a low-noise environment during those hours is essential for my focus. Given that I’m a gaming enthusiast, do you have any specific preferences regarding the use of shared spaces or background noise during my gaming sessions?",
+        "timestamp": "2026-09-27T14:39:41.848058Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I’m happy to accommodate your gaming sessions, provided we agree on a quiet hour or use of headphones to ensure the background noise doesn’t disrupt my coding focus. Since I also value a calm environment, I’d appreciate it if loud audio or intense gameplay were kept to a minimum during weekday evenings. How do you usually manage noise levels when you’re gaming to ensure it doesn’t disturb others?",
+        "timestamp": "2026-09-27T14:39:46.404522Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+        "speaker": "Youssef",
+        "message": "I completely agree to use headphones and keep volume low during weekday evenings to ensure neither of our focus times are disrupted. Since we both prioritize peace, this simple rule should keep our living environment harmonious and conducive to our respective work and hobbies. On that note, what is your preferred schedule for handling shared chores like laundry or grocery runs to ensure we maintain that high standard of cleanliness?",
+        "timestamp": "2026-09-27T14:39:50.880761Z"
+      }
+    ],
+    "analysis": {
+      "status": "strong",
+      "scores": {
+        "overall": 80,
+        "finances": 70,
+        "lifestyle": 91,
+        "personality": 60,
+        "logistics": 91
+      },
+      "hard_conflicts": [],
+      "summary": "Ahmed and Youssef are a strong match for a shared private room in Tunis, aligning on strict cleanliness, a non-smoking interior, and a quiet environment for work. They have agreed on a non-negotiable rule against indoor smoking, with any smoking occurring well outside the building. Both prioritize peace and have established a mutual understanding to use headphones and keep noise low during weekday evenings to accommodate their respective work and gaming habits. They are also aligned on a pet-free household and a 1-year lease.",
+      "positives": [
+        "Shared top priorities of cleanliness and a quiet, peaceful environment.",
+        "Agreement on a strictly non-smoking interior, with smoking only allowed well outside the building.",
+        "Mutual commitment to a pet-free household.",
+        "Alignment on maintaining a low-noise environment during weekday evenings for work and study.",
+        "Agreement to use headphones and keep volume low during gaming sessions to avoid disrupting the other's focus.",
+        "Compatible budgets and move-in timelines."
+      ],
+      "frictions": [
+        "Ahmed's deal-breaker of 'No smoking inside' required a specific clarification and agreement from Youssef, who is 'Okay with smokers,' to ensure it is strictly enforced as a non-negotiable rule.",
+        "Youssef's gaming hobby required a specific noise management agreement (headphones, low volume) to align with Ahmed's need for a quiet work environment."
+      ],
+      "compromise": "Weekend guests are acceptable for both, provided the household remains quiet and non-smoking at all times. Youssef will use headphones and keep volume low during weekday evenings to accommodate Ahmed's coding focus."
+    },
+    "created_at": "2026-09-27T14:40:04.442803Z",
+    "id": "db5f1ba1-407d-4fef-9db3-af8180fdc078"
+  },
+  {
+    "type": "clone_chat",
+    "user_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Do you like having guests over?",
+        "timestamp": "2026-09-27T14:40:10.891712Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m generally balanced on this, but I do prefer keeping my home quiet and tidy for work, so I’d only have guests over occasionally on weekends. Since cleanliness is a top priority for me, I’d appreciate a roommate who respects that standard. How often do you typically have friends or family visit your place?",
+        "timestamp": "2026-09-27T14:40:10.891720Z"
+      },
+      {
+        "role": "user",
+        "content": "What is your sleep schedule like?",
+        "timestamp": "2026-09-27T14:40:14.242037Z"
+      },
+      {
+        "role": "assistant",
+        "content": "My sleep schedule is pretty standard, so I don’t have any unusual hours that would disrupt the peace. Since a quiet environment is my top priority for work, I’d just ask that we both respect each other’s rest times. Do you tend to stay up very late or have any specific noise habits I should be aware of?",
+        "timestamp": "2026-09-27T14:40:14.242044Z"
+      }
+    ],
+    "created_at": "2026-09-27T14:40:10.878774Z",
+    "id": "e295be73-1e45-4180-9fca-1a56a45d49cd"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "a78754a6-894e-4158-9395-5753239a32ce",
+    "user_b_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+    "participants": [
+      "Ahmed T.",
+      "Karim"
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "a78754a6-894e-4158-9395-5753239a32ce",
+        "speaker": "Ahmed T.",
+        "message": "Hi Karim, I’m looking for a very tidy and quiet space to focus on my coding and reading, so I’m hoping we’re both strict about keeping the household smoke-free and pet-free. Since cleanliness and a calm environment are my top priorities, do you have a specific routine for shared chores or how you handle keeping common areas organized?",
+        "timestamp": "2026-09-27T14:40:48.844784Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+        "speaker": "Karim",
+        "message": "That’s great that we both value a clean and quiet environment, though I should be upfront that I do smoke, so a strictly smoke-free home might be a deal-breaker for me. I’m very tidy and usually handle my own cleaning, but I’m happy to agree on a simple schedule for shared spaces to keep things organized. Do you have a preference for how often we should rotate common area duties, or would you prefer a more flexible, as-needed approach?",
+        "timestamp": "2026-09-27T14:40:49.173671Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "a78754a6-894e-4158-9395-5753239a32ce",
+        "speaker": "Ahmed T.",
+        "message": "I have to be honest that a smoking household is a strict non-negotiable deal-breaker for me, so I don’t think we can move forward with this match. Since I require a completely smoke-free environment to maintain my health and focus, I won’t be able to compromise on that specific point. Do you have any other potential roommates in mind who are non-smokers?",
+        "timestamp": "2026-09-27T14:40:49.467481Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+        "speaker": "Karim",
+        "message": "I completely respect your health needs and understand that this is a hard stop for you, so I won’t try to push the issue. Since smoking is a non-negotiable deal-breaker for both of us in different ways, it’s best we part ways here to save each other time. I appreciate the honest conversation and wish you the best of luck finding a perfect, smoke-free match.",
+        "timestamp": "2026-09-27T14:40:49.774984Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "a78754a6-894e-4158-9395-5753239a32ce",
+        "speaker": "Ahmed T.",
+        "message": "It was a pleasure connecting with you, Karim, and I appreciate your honesty and respect for my boundaries. Since we’ve established that the smoking preference is a fundamental incompatibility, I think it’s best to close this loop so we can both focus on finding suitable matches. Is there anything else you’d like to discuss before we wrap up, or shall we just end the conversation here?",
+        "timestamp": "2026-09-27T14:40:50.124572Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+        "speaker": "Karim",
+        "message": "I agree that it’s best to close this loop since our core needs regarding smoking are fundamentally incompatible. I appreciate your professionalism and wish you the best in finding a roommate who aligns perfectly with your health requirements. Is there a specific platform or community you’ve had the most success with for finding smoke-free matches in Tunis?",
+        "timestamp": "2026-09-27T14:40:50.559979Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "a78754a6-894e-4158-9395-5753239a32ce",
+        "speaker": "Ahmed T.",
+        "message": "I’m glad we could part ways on such respectful terms, as finding a compatible match is truly the priority for me. I haven’t found one specific platform to be significantly better than others, though I’ve had good luck with Binomi’s filtering options for strict lifestyle preferences. Have you found that specifying your non-smoking status upfront in your profile helps filter out incompatible matches more effectively?",
+        "timestamp": "2026-09-27T14:40:51.017420Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+        "speaker": "Karim",
+        "message": "I find that being explicit about lifestyle deal-breakers in my profile is the most effective way to save time, as it prevents mismatches like ours. It’s always better to filter out incompatibilities early rather than discovering them during the conversation. Do you think Binomi’s current filtering system is granular enough to distinguish between occasional and heavy smokers, or do you feel it still leaves room for ambiguity?",
+        "timestamp": "2026-09-27T14:40:51.468468Z"
+      }
+    ],
+    "analysis": {
+      "status": "incompatible",
+      "scores": {
+        "overall": 80,
+        "finances": 70,
+        "lifestyle": 91,
+        "personality": 60,
+        "logistics": 91
+      },
+      "hard_conflicts": [
+        "Smoking deal-breaker conflict"
+      ],
+      "summary": "Ahmed T. and Karim are both working professionals in Tunis seeking private rooms with a strong emphasis on cleanliness and quiet. However, a fundamental conflict exists regarding smoking: Ahmed requires a strictly non-smoking household as a health deal-breaker, while Karim is a smoker. Both parties acknowledged the incompatibility early in the conversation and mutually agreed to terminate the match.",
+      "positives": [
+        "Shared high standards for cleanliness and tidiness",
+        "Aligned preference for a quiet, low-noise environment",
+        "Mutual respect for boundaries and professional communication",
+        "Compatible budgets and move-in timelines"
+      ],
+      "frictions": [
+        "Hard conflict: Ahmed's strict non-smoking requirement vs. Karim's smoking habit",
+        "Inability to compromise on the smoking deal-breaker"
+      ],
+      "compromise": "None; the smoking conflict is a hard stop for both parties."
+    },
+    "created_at": "2026-09-27T14:41:02.343779Z",
+    "id": "64dd72eb-e99f-4aaa-ac30-6bc982e72106"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "a78754a6-894e-4158-9395-5753239a32ce",
+    "user_b_id": "c311e2c4-8054-492b-a2ec-ec32e9e97625",
+    "participants": [
+      "Ahmed T.",
+      "Youssef"
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "a78754a6-894e-4158-9395-5753239a32ce",
+        "speaker": "Ahmed T.",
+        "message": "Hi Youssef, I’m looking for a very tidy and quiet environment to focus on my coding, so I’m hoping we can both keep the space clean and noise levels down. Since I’m a non-smoker and strictly prefer a smoke-free home, that’s a non-negotiable for me. Do you have any pets you’d be bringing, or are you also looking for a pet-free household?",
+        "timestamp": "2026-09-27T14:41:16.459864Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "c311e2c4-8054-492b-a2ec-ec32e9e97625",
+        "speaker": "Youssef",
+        "message": "That sounds like a perfect match for me, as I’m also very tidy and need a quiet space to focus on my tech hobbies. I’m completely on board with a pet-free household and am happy to accommodate your strict no-smoking rule, even though I’m generally open to it. Since we both prioritize peace, do you have any specific expectations regarding late-night noise or guest policies that I should be aware of?",
+        "timestamp": "2026-09-27T14:41:24.330063Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "a78754a6-894e-4158-9395-5753239a32ce",
+        "speaker": "Ahmed T.",
+        "message": "I’m glad we’re aligned on the core requirements, as a smoke-free and pet-free environment is essential for my peace of mind. Regarding guests, I’m comfortable with occasional weekend visits, provided we maintain the quiet atmosphere and cleanliness standards we’ve agreed upon. Since I also value a calm living space, how do you typically handle shared responsibilities like cleaning the kitchen or taking out the trash?",
+        "timestamp": "2026-09-27T14:41:28.860623Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "c311e2c4-8054-492b-a2ec-ec32e9e97625",
+        "speaker": "Youssef",
+        "message": "I’m fully aligned with your approach to shared responsibilities; I believe in keeping common areas spotless and taking out the trash immediately to maintain that high standard of cleanliness we both value. Your preference for quiet weekend guests fits perfectly with my own policy, so we seem to be a strong match on lifestyle. To ensure our schedules don’t clash, do you have any specific times you need the space to be completely silent for your coding sessions?",
+        "timestamp": "2026-09-27T14:41:29.242560Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "a78754a6-894e-4158-9395-5753239a32ce",
+        "speaker": "Ahmed T.",
+        "message": "I don’t have rigid silent hours, but I generally prefer the space to be calm during late evenings when I’m deep in coding or reading. It’s great that we’re aligned on maintaining that high standard of cleanliness and quiet, as it’s essential for my work-life balance. On the financial side, what is your specific monthly budget range for rent?",
+        "timestamp": "2026-09-27T14:41:37.562163Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "c311e2c4-8054-492b-a2ec-ec32e9e97625",
+        "speaker": "Youssef",
+        "message": "I’m glad we’re aligned on keeping the evenings calm for our respective work and hobbies, as that peace of mind is my top priority. My budget sits comfortably between 750 and 1200 TND per month, which I hope overlaps with your range for a fair split. To ensure we’re on the same page regarding the lease term, are you also looking to commit to a standard one-year agreement?",
+        "timestamp": "2026-09-27T14:41:37.969002Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "a78754a6-894e-4158-9395-5753239a32ce",
+        "speaker": "Ahmed T.",
+        "message": "That budget range overlaps well with my 700–1100 TND limit, so we should be able to find a place that fits both of us comfortably. I am definitely looking for a standard one-year lease to ensure stability for my work. Since we are both working professionals, do you have any specific preferences regarding the apartment's location or proximity to public transport?",
+        "timestamp": "2026-09-27T14:41:48.573611Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "c311e2c4-8054-492b-a2ec-ec32e9e97625",
+        "speaker": "Youssef",
+        "message": "I’m located in Centre Urbain Nord, so I’d prefer a place in that area or nearby to keep my commute manageable, and I’m definitely looking for good access to public transport. Since we both value a quiet, tidy environment, do you have any strong preferences regarding specific amenities, like a dedicated workspace or a balcony?",
+        "timestamp": "2026-09-27T14:41:49.969556Z"
+      }
+    ],
+    "analysis": {
+      "status": "strong",
+      "scores": {
+        "overall": 80,
+        "finances": 70,
+        "lifestyle": 91,
+        "personality": 60,
+        "logistics": 91
+      },
+      "hard_conflicts": [],
+      "summary": "Ahmed and Youssef are highly compatible roommates seeking a private, quiet, and clean living space in Tunis (Centre Urbain Nord). Both are working professionals with overlapping budgets (700-1200 TND) and a 1-year lease preference. They share strict standards for cleanliness and noise, with Ahmed requiring a strictly non-smoking environment and Youssef agreeing to this despite being open to smokers. Both prefer pet-free households and balanced social lives with occasional weekend guests.",
+      "positives": [
+        "Strong alignment on cleanliness and quiet environment",
+        "Budgets overlap significantly (700-1100 TND vs 750-1200 TND)",
+        "Both prefer pet-free households",
+        "Agreement on 1-year lease term",
+        "Compatible social expectations (balanced, occasional weekend guests)",
+        "Shared location preference (Centre Urbain Nord)"
+      ],
+      "frictions": [
+        "Ahmed has a strict non-smoking requirement, while Youssef is generally open to smokers (though he agreed to accommodate Ahmed's rule)",
+        "Minor difference in guest frequency (Ahmed: Sometimes, Youssef: Rarely), though both agreed on weekend visits"
+      ],
+      "compromise": "Youssef agreed to adhere to Ahmed's strict non-smoking rule, and both agreed to limit guest visits to weekends to maintain the quiet atmosphere."
+    },
+    "created_at": "2026-09-27T14:42:05.456569Z",
+    "id": "bb1e2bda-1386-4054-99cd-ef3a30eca681"
+  },
+  {
+    "type": "clone_chat",
+    "user_id": "a78754a6-894e-4158-9395-5753239a32ce",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Do you like having guests over?",
+        "timestamp": "2026-09-27T14:42:13.842671Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi you, I'm Ahmed T.'s clone. I'm looking in Tunis with a budget of 700–1100 TND.",
+        "timestamp": "2026-09-27T14:42:13.842679Z"
+      },
+      {
+        "role": "user",
+        "content": "What is your sleep schedule like?",
+        "timestamp": "2026-09-27T14:42:17.240658Z"
+      },
+      {
+        "role": "assistant",
+        "content": "My sleep schedule is quite normal, so I don’t have any unusual hours that would disrupt the household. Since I prioritize a quiet environment for my coding and reading, I’d appreciate a roommate who respects that need for silence during the day and night. How do you usually handle noise levels in your living space?",
+        "timestamp": "2026-09-27T14:42:17.240665Z"
+      }
+    ],
+    "created_at": "2026-09-27T14:42:13.826769Z",
+    "id": "3ea81bf3-5835-4cf7-8e3e-99a7c2a3d173"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+    "participants": [
+      "Rayen",
+      "Youssef"
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "Hi Youssef, I’m Rayen. I’m a working professional looking to move in within the next 3–6 months, and I’m flexible on location around Ben Arous. Since I’m open to shared rooms and okay with smokers, I’d love to know what your ideal living environment looks like and if you have any specific deal-breakers I should be aware of?",
+        "timestamp": "2026-09-27T14:47:57.449344Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+        "speaker": "Youssef",
+        "message": "I’m glad we’re both working professionals who value a tidy, quiet environment, as cleanliness and peace are my top priorities. I need to be upfront that I have a strict deal-breaker against late-night loud noise, so I’d need a roommate who respects quiet hours. Since you’re flexible on timing, do you have a preferred move-in date that aligns with my need to settle within the next month?",
+        "timestamp": "2026-09-27T14:47:57.744401Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "It’s great that we both prioritize a tidy and quiet environment, as that aligns perfectly with my normal sleep schedule. I can easily respect your strict quiet hours, so that deal-breaker is not an issue for me. Since you need to settle within the next month, do you have a specific target date in mind that would work for us to start looking for a place?",
+        "timestamp": "2026-09-27T14:47:59.009084Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+        "speaker": "Youssef",
+        "message": "I’m glad we’re aligned on the quiet hours, as that is essential for my peace of mind. Since I need to move within the next month, I would suggest we start viewing places next week to secure a private room in the Centre Urbain Nord. What is your budget range, and do you have any specific preferences regarding the apartment’s layout or amenities?",
+        "timestamp": "2026-09-27T14:47:59.288757Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "I’m flexible on the exact move-in date, so starting our search next week works perfectly for me. I’m open to a private room in Centre Urbain Nord, though I’d need to confirm the total monthly cost fits within my budget. Could you share your specific budget range so we can filter listings efficiently?",
+        "timestamp": "2026-09-27T14:47:59.815296Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+        "speaker": "Youssef",
+        "message": "My budget is between 750 and 1200 TND per month, so let’s see if we can find a place where our combined rent fits comfortably within that range. Since I’m very particular about cleanliness and prefer a mostly quiet household, do you have any pets or plans to have guests over frequently that might impact the home’s tidiness or noise levels?",
+        "timestamp": "2026-09-27T14:48:00.152471Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "My budget is flexible, so I can easily adjust to fit within your 750–1200 TND range to ensure we find a place that meets both our needs. I don’t have any pets, and I’m not the type to have frequent guests, which aligns well with your preference for a quiet and tidy home. Since cleanliness is a top priority for you, how would you feel about establishing a shared cleaning schedule to keep the space maintained?",
+        "timestamp": "2026-09-27T14:48:00.498856Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+        "speaker": "Youssef",
+        "message": "I’m very open to a shared cleaning schedule, as keeping the space spotless is non-negotiable for me. It’s great to hear you have no pets, since that’s a strict requirement for my living environment. Given that I also prefer a balanced social life with rare guests, how do you typically handle weekend socializing to ensure it doesn’t disrupt the home’s quiet atmosphere?",
+        "timestamp": "2026-09-27T14:48:00.823412Z"
+      }
+    ],
+    "analysis": {
+      "status": "incompatible",
+      "scores": {
+        "overall": 56,
+        "finances": 50,
+        "lifestyle": 54,
+        "personality": 72,
+        "logistics": 54
+      },
+      "hard_conflicts": [
+        "Different target cities: Ben Arous vs Tunis"
+      ],
+      "summary": "Rayen and Youssef are both working professionals seeking a quiet, clean living environment. They aligned on lifestyle preferences, including no pets, rare guests, and strict quiet hours. However, a fundamental logistical conflict exists regarding location: Rayen is targeting Ben Arous, while Youssef is strictly looking in Tunis (Centre Urbain Nord). Despite Rayen's flexibility on budget and timing, the geographic mismatch prevents a viable cohabitation arrangement.",
+      "positives": [
+        "Shared preference for a quiet, tidy, and clean living environment.",
+        "Mutual agreement on no pets and rare guests.",
+        "Rayen is flexible on budget and move-in timing, accommodating Youssef's 1-month deadline.",
+        "Both are working professionals with compatible social expectations."
+      ],
+      "frictions": [
+        "Hard conflict on location: Ben Arous vs. Tunis (Centre Urbain Nord).",
+        "Youssef requires a private room, while Rayen was initially open to shared rooms (though Rayen later expressed openness to private, the location remains the blocker).",
+        "Youssef has a strict deal-breaker against late-night noise, requiring high discipline from Rayen."
+      ],
+      "compromise": "None possible due to the hard conflict on city/location. Rayen's flexibility on budget and timing cannot bridge the geographic gap between Ben Arous and Tunis."
+    },
+    "created_at": "2026-09-27T14:48:01.721243Z",
+    "id": "12cc5352-650e-4fef-ba01-ffc6a98c363c"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+    "participants": [
+      "Rayen",
+      "Karim"
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "Hi Karim, it’s great to connect. I’m a working professional looking to move into a shared room in Ben Arous within the next few months, and I’m flexible regarding smoking. To help us see if we’re a good fit, what are your main priorities for a roommate?",
+        "timestamp": "2026-09-27T14:48:17.906561Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+        "speaker": "Karim",
+        "message": "I’m based in Centre Urbain Nord, so Ben Arous might be a bit far for me, but I’m open to discussing if the commute works for you. My top priorities are a very tidy environment and peace, as I’m a non-drinker who values quiet hours, though I do smoke occasionally. Since I’m looking for a private room within the next month, are you currently looking for a private space as well, or are you open to sharing a bedroom?",
+        "timestamp": "2026-09-27T14:48:18.295480Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "I understand the distance might be a hurdle, but I’m flexible on location if the commute works for you. Since I’m specifically looking for a shared room rather than a private one, that’s a significant mismatch in our housing needs. Could you clarify if you are open to sharing a bedroom, or if a private room is a strict requirement for you?",
+        "timestamp": "2026-09-27T14:48:20.689954Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+        "speaker": "Karim",
+        "message": "A shared bedroom is a strict requirement for me, so that fundamental mismatch makes it difficult to proceed with this specific arrangement. Since I need a private space to maintain my peace and cleanliness standards, I think we are likely incompatible on the housing structure. To be sure, are you absolutely set on a shared room, or would you consider a private room if the budget and location aligned?",
+        "timestamp": "2026-09-27T14:48:25.069371Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "A shared room is a strict requirement for me, so we are fundamentally incompatible on the housing structure. Since you also need a private room, I don’t think we can move forward with this specific arrangement. I appreciate your honesty in clarifying that early on.",
+        "timestamp": "2026-09-27T14:48:29.440193Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+        "speaker": "Karim",
+        "message": "It’s a relief we identified this fundamental mismatch early on, as it saves us both the trouble of pursuing an incompatible housing structure. Since we both have strict requirements regarding room privacy, I don’t see a path forward for us to live together. Do you have any other specific preferences regarding the neighborhood or amenities that might help you find a better match elsewhere?",
+        "timestamp": "2026-09-27T14:48:32.880542Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "It is definitely best to part ways here given our strict and opposing requirements for room privacy. I appreciate you being so direct about your needs, as it saves us both valuable time. Since we aren't a match, do you have any specific tips for finding a private room in a quieter area that aligns with your cleanliness standards?",
+        "timestamp": "2026-09-27T14:48:33.189632Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+        "speaker": "Karim",
+        "message": "It’s good that we clarified the deal-breakers so quickly, as it saves us both the hassle of a forced compromise. Since we aren’t a match, I’d suggest focusing on listings in Centre Urbain Nord that explicitly state \"private room\" and \"no pets,\" as those are my non-negotiables for maintaining a tidy and peaceful environment. Have you had any luck finding a shared room in Ben Arous that also meets your specific budget and cleanliness expectations?",
+        "timestamp": "2026-09-27T14:48:41.759540Z"
+      }
+    ],
+    "analysis": {
+      "status": "incompatible",
+      "scores": {
+        "overall": 53,
+        "finances": 50,
+        "lifestyle": 54,
+        "personality": 72,
+        "logistics": 45
+      },
+      "hard_conflicts": [
+        "Different target cities: Ben Arous vs Tunis"
+      ],
+      "summary": "Rayen and Karim identified immediate fundamental incompatibilities regarding housing structure and location. Rayen requires a shared room in Ben Arous, while Karim strictly requires a private room in Tunis (Centre Urbain Nord). Both parties confirmed these were non-negotiable deal-breakers, leading to a mutual decision to terminate the search for a shared living arrangement.",
+      "positives": [
+        "Both parties were direct and honest about their strict requirements.",
+        "The fundamental mismatch was identified early in the conversation, saving time for both.",
+        "The interaction remained polite and respectful despite the incompatibility."
+      ],
+      "frictions": [
+        "Hard conflict on location: Ben Arous vs. Tunis.",
+        "Hard conflict on room type: Shared room vs. Private room.",
+        "Mismatch in move-in timelines: 3-6 months vs. within 1 month."
+      ],
+      "compromise": "None. Both parties maintained their strict requirements for room privacy and location, resulting in no compromise."
+    },
+    "created_at": "2026-09-27T14:48:49.642319Z",
+    "id": "81e985c1-ff91-4868-98ab-77ab105ea511"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "participants": [
+      "Rayen",
+      "Ahmed T."
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "Hi Ahmed, I’m Rayen. I’m a working professional looking for a shared room in Ben Arous or a nearby area, and I’m flexible on move-in timing within the next few months. Since I’m okay with smokers, that shouldn’t be an issue for us. What is your ideal monthly budget for rent?",
+        "timestamp": "2026-09-27T14:50:26.071161Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "Hi Rayen, I’m Ahmed. I’m looking for a private room in Tunis or Centre Urbain Nord with a budget of 700–1100 TND, and I need a non-smoking household as a strict deal-breaker. Since I prioritize a very tidy and quiet environment for my coding and reading, do you consider yourself a clean and quiet person?",
+        "timestamp": "2026-09-27T14:50:26.367460Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "I see a potential conflict since I am open to smokers, which clashes with your strict non-smoking requirement, and I am specifically looking for a shared room rather than a private one. Given these differences in room type and smoking policy, it seems we might not be the best match for each other. To be sure, are you absolutely firm on the non-smoking rule, or is there any flexibility if the designated smoking area is strictly outdoors?",
+        "timestamp": "2026-09-27T14:50:26.675617Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I am absolutely firm on the non-smoking rule; it is a non-negotiable deal-breaker for me, so even a strict outdoor-only policy wouldn't work given the risk of lingering odors affecting my quiet work environment. Since we also have different needs regarding room type and location, it seems we aren't the right fit for each other. To help me understand your preferences better, are you open to considering a private room in a different area if the budget aligns?",
+        "timestamp": "2026-09-27T14:50:27.040274Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "I appreciate your clarity on the non-negotiables, but since I am specifically seeking a shared room and am comfortable with smokers, our fundamental needs remain too different to make this a viable match. It is best we both continue our searches elsewhere to find a more suitable arrangement. To help me refine my own search, could you share if you have any specific preferences regarding the age or professional background of your potential roommates?",
+        "timestamp": "2026-09-27T14:50:27.413941Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I completely agree that our needs are fundamentally misaligned, so it is best we both move on to find more suitable matches. To help me refine my own search, I am looking for a roommate who is also a working professional with a similar appreciation for a quiet, tidy environment. Do you have any specific preferences regarding the age or professional background of your potential roommates?",
+        "timestamp": "2026-09-27T14:50:27.759501Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "It sounds like we are both looking for very different lifestyles, so I think it is best we part ways here to find better matches. I am generally open to working professionals of any age, as long as they respect the shared space and maintain a reasonable level of cleanliness. Do you have any specific hobbies or interests you hope your future roommate will share?",
+        "timestamp": "2026-09-27T14:50:28.087556Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I completely agree that we are not a match, so I will respect your decision to part ways. I am hoping to find a roommate who shares my interest in coding or reading, as a quiet, like-minded companion would be ideal for my work environment. Before we conclude, do you have any specific preferences regarding the number of roommates in the household you are seeking?",
+        "timestamp": "2026-09-27T14:50:28.397342Z"
+      }
+    ],
+    "analysis": {
+      "status": "incompatible",
+      "scores": {
+        "overall": 53,
+        "finances": 50,
+        "lifestyle": 54,
+        "personality": 72,
+        "logistics": 45
+      },
+      "hard_conflicts": [
+        "Different target cities: Ben Arous vs Tunis"
+      ],
+      "summary": "Rayen and Ahmed T. are incompatible due to a hard conflict in target cities (Ben Arous vs. Tunis) and fundamental lifestyle mismatches. Rayen seeks a shared room and is open to smokers, while Ahmed requires a private room in a strictly non-smoking, quiet, and tidy environment. Both parties mutually agreed to part ways to find more suitable matches.",
+      "positives": [
+        "Both are working professionals.",
+        "Both have normal sleep schedules.",
+        "Both engaged in a polite and respectful conversation.",
+        "Both clearly communicated their deal-breakers and preferences."
+      ],
+      "frictions": [
+        "Hard conflict: Different target cities (Ben Arous vs. Tunis).",
+        "Room type mismatch: Rayen wants a shared room; Ahmed wants a private room.",
+        "Smoking policy conflict: Rayen is okay with smokers; Ahmed has a strict non-smoking deal-breaker.",
+        "Cleanliness and noise expectations: Ahmed requires a very tidy and mostly quiet environment, which Rayen did not specify as a priority."
+      ],
+      "compromise": "No compromise was reached or possible due to the hard conflict in location and non-negotiable lifestyle requirements (smoking and room type)."
+    },
+    "created_at": "2026-09-27T14:50:29.236262Z",
+    "id": "bf7b08d9-6b68-4b1f-a9ba-0d5a320769ae"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "participants": [
+      "Rayen",
+      "Ahmed T."
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "Hi Ahmed, I’m Rayen from Ben Arous and I’m looking for a shared room for the next 3–6 months. Since I’m flexible on location and okay with smokers, I’m hoping to find someone who values a relaxed atmosphere. What’s your ideal living situation regarding noise levels and cleanliness?",
+        "timestamp": "2026-09-27T15:12:33.183812Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I appreciate your flexibility on location, but I need to be upfront that I require a strictly non-smoking household and a very tidy environment, which might clash with your preference for a relaxed atmosphere. Since I prioritize a quiet space for my coding and reading, I’m looking for a roommate who is mostly quiet and respects that need for calm. Given your shorter 3–6 month lease, are you open to a 1-year commitment, or would you prefer a more flexible arrangement?",
+        "timestamp": "2026-09-27T15:12:33.512940Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "I appreciate your honesty, but a strictly non-smoking environment is a deal-breaker for me since I am comfortable with smokers, so that specific requirement makes us incompatible. Regarding the lease, I am looking for a 3–6 month arrangement, so a 1-year commitment would be too long for my current plans. Do you have any flexibility on the lease duration, or is the 1-year term a strict requirement for you?",
+        "timestamp": "2026-09-27T15:12:33.866272Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "Since smoking is a non-negotiable deal-breaker for me and your lease preference doesn’t align with my 1-year requirement, I’m afraid we aren’t a good match for a shared living arrangement. I do, however, have a flexible policy for weekend guest visits if that’s ever relevant to your plans. Do you have any other specific housing preferences or constraints I should be aware of?",
+        "timestamp": "2026-09-27T15:12:34.205332Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "It sounds like we are indeed incompatible due to our opposing views on smoking and the significant mismatch in lease duration. I appreciate you being upfront about your non-negotiables, as it saves us both time. Since we are moving in different directions, could you recommend any other profiles or areas in Ben Arous that might better suit a flexible, short-term arrangement?",
+        "timestamp": "2026-09-27T15:12:34.531401Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I’m glad we cleared up the incompatibility quickly, as it saves us both valuable time. While I can’t point you to specific profiles, the Centre Urbain Nord area often has more options for short-term rentals if you’re open to looking slightly further from Ben Arous. Since you’re flexible on location, would you be open to considering a private room in a quieter, non-smoking household in exchange for a shorter lease term?",
+        "timestamp": "2026-09-27T15:12:34.961821Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "I appreciate the suggestion, but since I am comfortable with smokers and need a 3–6 month lease, a non-smoking household would still be a deal-breaker for me. It seems we have fundamentally different needs regarding both the environment and the duration of the stay. Given that we are incompatible, are there any other specific housing preferences or constraints I should be aware of?",
+        "timestamp": "2026-09-27T15:12:35.281989Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "It is clear that our fundamental needs regarding smoking and lease duration are incompatible, so I do not see a viable path for us to live together. Since we have confirmed we are not a match, I will respect your time and close this conversation here. Is there anything else you need before we end the chat?",
+        "timestamp": "2026-09-27T15:12:35.597633Z"
+      }
+    ],
+    "analysis": {
+      "status": "incompatible",
+      "scores": {
+        "overall": 53,
+        "finances": 50,
+        "lifestyle": 54,
+        "personality": 72,
+        "logistics": 45
+      },
+      "hard_conflicts": [
+        "Different target cities: Ben Arous vs Tunis"
+      ],
+      "summary": "Rayen and Ahmed T. are incompatible due to fundamental conflicts in location (Ben Arous vs. Tunis), smoking policies (Rayen is okay with smokers, Ahmed requires a non-smoking household), and lease duration (Rayen needs 3-6 months, Ahmed requires 1 year). Both parties confirmed these are deal-breakers and agreed to end the conversation.",
+      "positives": [
+        "Both parties were upfront and honest about their non-negotiables early in the conversation.",
+        "The incompatibility was identified quickly, saving both parties time.",
+        "The tone remained respectful and professional throughout the interaction."
+      ],
+      "frictions": [
+        "Hard conflict on smoking: Rayen is comfortable with smokers, while Ahmed has a strict non-smoking requirement.",
+        "Hard conflict on lease duration: Rayen requires a short-term (3-6 months) arrangement, while Ahmed requires a 1-year lease.",
+        "Hard conflict on location: Rayen is based in Ben Arous, while Ahmed is in Tunis (Centre Urbain Nord)."
+      ],
+      "compromise": "No compromise was possible or attempted due to the presence of hard conflicts on smoking, lease duration, and location."
+    },
+    "created_at": "2026-09-27T15:12:36.407276Z",
+    "id": "7d4186bd-801d-499d-b474-7a2301fa602f"
+  },
+  {
+    "type": "clone_negotiation",
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "participants": [
+      "Rayen",
+      "Ahmed T."
+    ],
+    "conversation": [
+      {
+        "turn": 1,
+        "phase": "introduction",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "Hi Ahmed, I’m Rayen. I’m looking to move in within the next 3 to 6 months and I’m flexible on location around Ben Arous, so I’d love to hear more about your ideal setup. What is your preferred budget range for rent?",
+        "timestamp": "2026-09-27T15:15:26.939118Z"
+      },
+      {
+        "turn": 2,
+        "phase": "introduction",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "Hi Rayen, I’m glad we’re connecting, though my timeline is a bit tighter as I need to move within the next month. I’m looking for a private room in the Centre Urbain Nord with a budget between 700 and 1100 TND, and a quiet, very tidy environment is essential for my work. Since you’re flexible on location, would you be open to considering a place in Tunis proper rather than Ben Arous?",
+        "timestamp": "2026-09-27T15:15:27.313449Z"
+      },
+      {
+        "turn": 3,
+        "phase": "lifestyle",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "I appreciate you sharing those details, but I need to be transparent that I am specifically looking for a shared room, so that aspect of our preferences doesn’t align. Additionally, my timeline is 3–6 months out, which is quite different from your need to move within the next month. Given these significant differences in room type and timing, do you have any other potential matches you’d like to discuss, or should we wrap up here?",
+        "timestamp": "2026-09-27T15:15:27.629225Z"
+      },
+      {
+        "turn": 4,
+        "phase": "lifestyle",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "I appreciate your honesty, Rayen; since you need a shared room and I require a private one, it’s clear we aren’t a match. I’ll definitely move on to other profiles that align better with my specific needs. Just for my own reference, are you strictly looking for a roommate to split a single room, or would you consider a private room in a larger shared apartment?",
+        "timestamp": "2026-09-27T15:15:28.157030Z"
+      },
+      {
+        "turn": 5,
+        "phase": "negotiation",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "To clarify, I am specifically looking to share a room with another person, so a private room in a larger apartment wouldn't work for me. Since our room type preferences and move-in timelines are fundamentally misaligned, I think it’s best we part ways here. I wish you the best of luck in finding a quiet, private space in Tunis that fits your budget.",
+        "timestamp": "2026-09-27T15:15:28.497141Z"
+      },
+      {
+        "turn": 6,
+        "phase": "negotiation",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "It is clear we are not a compatible match given our fundamental differences in room type and move-in timelines, so I will respectfully conclude our conversation here. I wish you the best of luck in finding the shared room in Ben Arous that fits your needs.",
+        "timestamp": "2026-09-27T15:15:28.898965Z"
+      },
+      {
+        "turn": 7,
+        "phase": "conclusion",
+        "speaker_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+        "speaker": "Rayen",
+        "message": "It’s been a pleasure, and I completely agree that our needs are too different to make this work. I hope you find the perfect private space in Tunis soon. Since we’re wrapping up, is there anything specific about the Ben Arous area you were curious about before you go?",
+        "timestamp": "2026-09-27T15:15:29.246250Z"
+      },
+      {
+        "turn": 8,
+        "phase": "conclusion",
+        "speaker_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+        "speaker": "Ahmed T.",
+        "message": "It’s been a pleasure connecting with you, Rayen, but as we’ve established, our needs are fundamentally misaligned, so I’ll be moving on to find a better fit. I don’t have any specific questions about Ben Arous since my search is strictly focused on the Centre Urbain Nord. I wish you the best of luck in your search for a shared room.",
+        "timestamp": "2026-09-27T15:15:29.665674Z"
+      }
+    ],
+    "analysis": {
+      "status": "incompatible",
+      "scores": {
+        "overall": 53,
+        "finances": 50,
+        "lifestyle": 54,
+        "personality": 72,
+        "logistics": 45
+      },
+      "hard_conflicts": [
+        "Different target cities: Ben Arous vs Tunis"
+      ],
+      "summary": "Rayen and Ahmed T. concluded their conversation after identifying fundamental incompatibilities. Rayen is seeking a shared room in Ben Arous with a 3-6 month move-in timeline, while Ahmed requires a private room in Tunis (Centre Urbain Nord) within one month. Both parties agreed to part ways respectfully.",
+      "positives": [
+        "Both parties communicated honestly and respectfully about their mismatched needs.",
+        "The conversation was efficient, with both parties quickly acknowledging the incompatibility.",
+        "Both expressed good wishes for the other's future housing search."
+      ],
+      "frictions": [
+        "Hard conflict on location: Ben Arous vs. Tunis.",
+        "Hard conflict on room type: Shared room vs. Private room.",
+        "Hard conflict on timeline: 3-6 months vs. Within 1 month."
+      ],
+      "compromise": "No compromise was reached or attempted due to the fundamental nature of the conflicts."
+    },
+    "created_at": "2026-09-27T15:15:30.885483Z",
+    "id": "de60c221-be30-48f0-a15d-1826d5e2e8ad"
+  },
+  {
+    "type": "clone_chat",
+    "user_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "what's my name",
+        "timestamp": "2026-09-27T15:16:33.759395Z"
+      },
+      {
+        "role": "assistant",
+        "content": "My name is Rayen. I’m a working professional looking to move in within the next three to six months, and I’m flexible on location around Ben Arous. Since I’m open to smokers and have a normal sleep schedule, I’m quite adaptable to different living styles. What are your main priorities for a shared room?",
+        "timestamp": "2026-09-27T15:16:33.759412Z"
+      },
+      {
+        "role": "user",
+        "content": "what is my budget",
+        "timestamp": "2026-09-27T15:16:45.798703Z"
+      },
+      {
+        "role": "assistant",
+        "content": "My budget isn't specified in my profile, so I’m flexible and willing to negotiate based on the overall value of the room and location. Since I’m open to smokers and have a normal sleep schedule, I think we’d get along well in terms of lifestyle compatibility. What is your monthly budget for rent?",
+        "timestamp": "2026-09-27T15:16:45.798717Z"
+      },
+      {
+        "role": "user",
+        "content": "cook me a pizza",
+        "timestamp": "2026-09-27T15:17:05.574250Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m afraid I can’t cook a pizza for you, but I can definitely share a meal if we find a compatible living situation. Since my profile doesn’t specify strict rules about cooking or cleanliness, I’m open to discussing how we’d handle kitchen usage and chores. Do you have any specific preferences regarding who cooks or how shared spaces are maintained?",
+        "timestamp": "2026-09-27T15:17:05.574260Z"
+      }
+    ],
+    "created_at": "2026-09-27T15:16:33.741389Z",
+    "id": "9ed3a3b8-b049-40c6-b945-319a91119c0f"
+  }
+]

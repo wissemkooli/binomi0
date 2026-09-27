@@ -1,0 +1,284 @@
+[
+  {
+    "user_a_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "user_b_id": "87efef85-b122-4a61-b2d4-d518895bb268",
+    "status": "incompatible",
+    "score": 80,
+    "scores": {
+      "overall": 80,
+      "finances": 70,
+      "lifestyle": 91,
+      "personality": 60,
+      "logistics": 91
+    },
+    "summary": "Ahmed T. and Karim are both working professionals in Tunis seeking private rooms with high standards for cleanliness and quiet. However, a fundamental conflict exists regarding smoking: Ahmed requires a strictly non-smoking household, while Karim is a smoker. Both parties acknowledged this incompatibility early in the conversation and mutually agreed to end the search for a shared living arrangement.",
+    "positives": [
+      "Shared high standards for cleanliness and quiet environments",
+      "Aligned budget ranges (700-1100 TND vs 750-1200 TND)",
+      "Mutual respect for deal-breakers and honest communication",
+      "Compatible social preferences (balanced social life, rare guests)"
+    ],
+    "frictions": [
+      "Hard conflict: Ahmed's strict no-smoking policy vs Karim's smoking habit",
+      "Inability to compromise on the smoking requirement"
+    ],
+    "hard_conflicts": [
+      "Smoking deal-breaker conflict"
+    ],
+    "compromise": "None; the smoking conflict is a hard deal-breaker for Ahmed, and Karim is a smoker, making a compromise impossible.",
+    "negotiation_log_id": "52cdfa6b-b0fc-4795-8911-ee5a09ae05ad",
+    "created_at": "2026-09-27T14:39:22.768144Z",
+    "id": "97199d77-49f5-4d3c-87eb-c611f631e1ae"
+  },
+  {
+    "user_a_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "user_b_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+    "status": "strong",
+    "score": 80,
+    "scores": {
+      "overall": 80,
+      "finances": 70,
+      "lifestyle": 91,
+      "personality": 60,
+      "logistics": 91
+    },
+    "summary": "Ahmed and Youssef are a strong match for a shared private room in Tunis, aligning on strict cleanliness, a non-smoking interior, and a quiet environment for work. They have agreed on a non-negotiable rule against indoor smoking, with any smoking occurring well outside the building. Both prioritize peace and have established a mutual understanding to use headphones and keep noise low during weekday evenings to accommodate their respective work and gaming habits. They are also aligned on a pet-free household and a 1-year lease.",
+    "positives": [
+      "Shared top priorities of cleanliness and a quiet, peaceful environment.",
+      "Agreement on a strictly non-smoking interior, with smoking only allowed well outside the building.",
+      "Mutual commitment to a pet-free household.",
+      "Alignment on maintaining a low-noise environment during weekday evenings for work and study.",
+      "Agreement to use headphones and keep volume low during gaming sessions to avoid disrupting the other's focus.",
+      "Compatible budgets and move-in timelines."
+    ],
+    "frictions": [
+      "Ahmed's deal-breaker of 'No smoking inside' required a specific clarification and agreement from Youssef, who is 'Okay with smokers,' to ensure it is strictly enforced as a non-negotiable rule.",
+      "Youssef's gaming hobby required a specific noise management agreement (headphones, low volume) to align with Ahmed's need for a quiet work environment."
+    ],
+    "hard_conflicts": [],
+    "compromise": "Weekend guests are acceptable for both, provided the household remains quiet and non-smoking at all times. Youssef will use headphones and keep volume low during weekday evenings to accommodate Ahmed's coding focus.",
+    "negotiation_log_id": "db5f1ba1-407d-4fef-9db3-af8180fdc078",
+    "created_at": "2026-09-27T14:40:04.449221Z",
+    "id": "8f73072b-1c28-4b34-b3e8-d0fd676ce9fe"
+  },
+  {
+    "user_a_id": "a78754a6-894e-4158-9395-5753239a32ce",
+    "user_b_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+    "status": "incompatible",
+    "score": 80,
+    "scores": {
+      "overall": 80,
+      "finances": 70,
+      "lifestyle": 91,
+      "personality": 60,
+      "logistics": 91
+    },
+    "summary": "Ahmed T. and Karim are both working professionals in Tunis seeking private rooms with a strong emphasis on cleanliness and quiet. However, a fundamental conflict exists regarding smoking: Ahmed requires a strictly non-smoking household as a health deal-breaker, while Karim is a smoker. Both parties acknowledged the incompatibility early in the conversation and mutually agreed to terminate the match.",
+    "positives": [
+      "Shared high standards for cleanliness and tidiness",
+      "Aligned preference for a quiet, low-noise environment",
+      "Mutual respect for boundaries and professional communication",
+      "Compatible budgets and move-in timelines"
+    ],
+    "frictions": [
+      "Hard conflict: Ahmed's strict non-smoking requirement vs. Karim's smoking habit",
+      "Inability to compromise on the smoking deal-breaker"
+    ],
+    "hard_conflicts": [
+      "Smoking deal-breaker conflict"
+    ],
+    "compromise": "None; the smoking conflict is a hard stop for both parties.",
+    "negotiation_log_id": "64dd72eb-e99f-4aaa-ac30-6bc982e72106",
+    "created_at": "2026-09-27T14:41:02.351853Z",
+    "id": "214b8f0d-96b8-4643-903f-27b72df61ed6"
+  },
+  {
+    "user_a_id": "a78754a6-894e-4158-9395-5753239a32ce",
+    "user_b_id": "c311e2c4-8054-492b-a2ec-ec32e9e97625",
+    "status": "strong",
+    "score": 80,
+    "scores": {
+      "overall": 80,
+      "finances": 70,
+      "lifestyle": 91,
+      "personality": 60,
+      "logistics": 91
+    },
+    "summary": "Ahmed and Youssef are highly compatible roommates seeking a private, quiet, and clean living space in Tunis (Centre Urbain Nord). Both are working professionals with overlapping budgets (700-1200 TND) and a 1-year lease preference. They share strict standards for cleanliness and noise, with Ahmed requiring a strictly non-smoking environment and Youssef agreeing to this despite being open to smokers. Both prefer pet-free households and balanced social lives with occasional weekend guests.",
+    "positives": [
+      "Strong alignment on cleanliness and quiet environment",
+      "Budgets overlap significantly (700-1100 TND vs 750-1200 TND)",
+      "Both prefer pet-free households",
+      "Agreement on 1-year lease term",
+      "Compatible social expectations (balanced, occasional weekend guests)",
+      "Shared location preference (Centre Urbain Nord)"
+    ],
+    "frictions": [
+      "Ahmed has a strict non-smoking requirement, while Youssef is generally open to smokers (though he agreed to accommodate Ahmed's rule)",
+      "Minor difference in guest frequency (Ahmed: Sometimes, Youssef: Rarely), though both agreed on weekend visits"
+    ],
+    "hard_conflicts": [],
+    "compromise": "Youssef agreed to adhere to Ahmed's strict non-smoking rule, and both agreed to limit guest visits to weekends to maintain the quiet atmosphere.",
+    "negotiation_log_id": "bb1e2bda-1386-4054-99cd-ef3a30eca681",
+    "created_at": "2026-09-27T14:42:05.463385Z",
+    "id": "333423b0-d8fb-4224-bb79-1cfe963569ed"
+  },
+  {
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "06558ea4-fe74-438e-8762-a7566aec4d0c",
+    "status": "incompatible",
+    "score": 56,
+    "scores": {
+      "overall": 56,
+      "finances": 50,
+      "lifestyle": 54,
+      "personality": 72,
+      "logistics": 54
+    },
+    "summary": "Rayen and Youssef are both working professionals seeking a quiet, clean living environment. They aligned on lifestyle preferences, including no pets, rare guests, and strict quiet hours. However, a fundamental logistical conflict exists regarding location: Rayen is targeting Ben Arous, while Youssef is strictly looking in Tunis (Centre Urbain Nord). Despite Rayen's flexibility on budget and timing, the geographic mismatch prevents a viable cohabitation arrangement.",
+    "positives": [
+      "Shared preference for a quiet, tidy, and clean living environment.",
+      "Mutual agreement on no pets and rare guests.",
+      "Rayen is flexible on budget and move-in timing, accommodating Youssef's 1-month deadline.",
+      "Both are working professionals with compatible social expectations."
+    ],
+    "frictions": [
+      "Hard conflict on location: Ben Arous vs. Tunis (Centre Urbain Nord).",
+      "Youssef requires a private room, while Rayen was initially open to shared rooms (though Rayen later expressed openness to private, the location remains the blocker).",
+      "Youssef has a strict deal-breaker against late-night noise, requiring high discipline from Rayen."
+    ],
+    "hard_conflicts": [
+      "Different target cities: Ben Arous vs Tunis"
+    ],
+    "compromise": "None possible due to the hard conflict on city/location. Rayen's flexibility on budget and timing cannot bridge the geographic gap between Ben Arous and Tunis.",
+    "negotiation_log_id": "12cc5352-650e-4fef-ba01-ffc6a98c363c",
+    "created_at": "2026-09-27T14:48:01.729272Z",
+    "id": "a1a5ecce-dd89-4ce3-ba14-633952743e27"
+  },
+  {
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "0625b6d5-0c2e-44ef-b8f8-873471f233fe",
+    "status": "incompatible",
+    "score": 53,
+    "scores": {
+      "overall": 53,
+      "finances": 50,
+      "lifestyle": 54,
+      "personality": 72,
+      "logistics": 45
+    },
+    "summary": "Rayen and Karim identified immediate fundamental incompatibilities regarding housing structure and location. Rayen requires a shared room in Ben Arous, while Karim strictly requires a private room in Tunis (Centre Urbain Nord). Both parties confirmed these were non-negotiable deal-breakers, leading to a mutual decision to terminate the search for a shared living arrangement.",
+    "positives": [
+      "Both parties were direct and honest about their strict requirements.",
+      "The fundamental mismatch was identified early in the conversation, saving time for both.",
+      "The interaction remained polite and respectful despite the incompatibility."
+    ],
+    "frictions": [
+      "Hard conflict on location: Ben Arous vs. Tunis.",
+      "Hard conflict on room type: Shared room vs. Private room.",
+      "Mismatch in move-in timelines: 3-6 months vs. within 1 month."
+    ],
+    "hard_conflicts": [
+      "Different target cities: Ben Arous vs Tunis"
+    ],
+    "compromise": "None. Both parties maintained their strict requirements for room privacy and location, resulting in no compromise.",
+    "negotiation_log_id": "81e985c1-ff91-4868-98ab-77ab105ea511",
+    "created_at": "2026-09-27T14:48:49.650419Z",
+    "id": "cdf2e19d-eff0-4e07-b10d-d6915b1dcf7b"
+  },
+  {
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "status": "incompatible",
+    "score": 53,
+    "scores": {
+      "overall": 53,
+      "finances": 50,
+      "lifestyle": 54,
+      "personality": 72,
+      "logistics": 45
+    },
+    "summary": "Rayen and Ahmed T. are incompatible due to a hard conflict in target cities (Ben Arous vs. Tunis) and fundamental lifestyle mismatches. Rayen seeks a shared room and is open to smokers, while Ahmed requires a private room in a strictly non-smoking, quiet, and tidy environment. Both parties mutually agreed to part ways to find more suitable matches.",
+    "positives": [
+      "Both are working professionals.",
+      "Both have normal sleep schedules.",
+      "Both engaged in a polite and respectful conversation.",
+      "Both clearly communicated their deal-breakers and preferences."
+    ],
+    "frictions": [
+      "Hard conflict: Different target cities (Ben Arous vs. Tunis).",
+      "Room type mismatch: Rayen wants a shared room; Ahmed wants a private room.",
+      "Smoking policy conflict: Rayen is okay with smokers; Ahmed has a strict non-smoking deal-breaker.",
+      "Cleanliness and noise expectations: Ahmed requires a very tidy and mostly quiet environment, which Rayen did not specify as a priority."
+    ],
+    "hard_conflicts": [
+      "Different target cities: Ben Arous vs Tunis"
+    ],
+    "compromise": "No compromise was reached or possible due to the hard conflict in location and non-negotiable lifestyle requirements (smoking and room type).",
+    "negotiation_log_id": "bf7b08d9-6b68-4b1f-a9ba-0d5a320769ae",
+    "created_at": "2026-09-27T14:50:29.243173Z",
+    "id": "81866aee-dc90-4e8a-ad74-f07f3a2c8db3"
+  },
+  {
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "status": "incompatible",
+    "score": 53,
+    "scores": {
+      "overall": 53,
+      "finances": 50,
+      "lifestyle": 54,
+      "personality": 72,
+      "logistics": 45
+    },
+    "summary": "Rayen and Ahmed T. are incompatible due to fundamental conflicts in location (Ben Arous vs. Tunis), smoking policies (Rayen is okay with smokers, Ahmed requires a non-smoking household), and lease duration (Rayen needs 3-6 months, Ahmed requires 1 year). Both parties confirmed these are deal-breakers and agreed to end the conversation.",
+    "positives": [
+      "Both parties were upfront and honest about their non-negotiables early in the conversation.",
+      "The incompatibility was identified quickly, saving both parties time.",
+      "The tone remained respectful and professional throughout the interaction."
+    ],
+    "frictions": [
+      "Hard conflict on smoking: Rayen is comfortable with smokers, while Ahmed has a strict non-smoking requirement.",
+      "Hard conflict on lease duration: Rayen requires a short-term (3-6 months) arrangement, while Ahmed requires a 1-year lease.",
+      "Hard conflict on location: Rayen is based in Ben Arous, while Ahmed is in Tunis (Centre Urbain Nord)."
+    ],
+    "hard_conflicts": [
+      "Different target cities: Ben Arous vs Tunis"
+    ],
+    "compromise": "No compromise was possible or attempted due to the presence of hard conflicts on smoking, lease duration, and location.",
+    "negotiation_log_id": "7d4186bd-801d-499d-b474-7a2301fa602f",
+    "created_at": "2026-09-27T15:12:36.416061Z",
+    "id": "9dd33171-b33b-4e21-a5ae-33f080378efb"
+  },
+  {
+    "user_a_id": "f3ed22a3-674d-41e7-b08e-ec0907eb858f",
+    "user_b_id": "32a8e695-5d65-45a9-9d50-135432673ed1",
+    "status": "incompatible",
+    "score": 53,
+    "scores": {
+      "overall": 53,
+      "finances": 50,
+      "lifestyle": 54,
+      "personality": 72,
+      "logistics": 45
+    },
+    "summary": "Rayen and Ahmed T. concluded their conversation after identifying fundamental incompatibilities. Rayen is seeking a shared room in Ben Arous with a 3-6 month move-in timeline, while Ahmed requires a private room in Tunis (Centre Urbain Nord) within one month. Both parties agreed to part ways respectfully.",
+    "positives": [
+      "Both parties communicated honestly and respectfully about their mismatched needs.",
+      "The conversation was efficient, with both parties quickly acknowledging the incompatibility.",
+      "Both expressed good wishes for the other's future housing search."
+    ],
+    "frictions": [
+      "Hard conflict on location: Ben Arous vs. Tunis.",
+      "Hard conflict on room type: Shared room vs. Private room.",
+      "Hard conflict on timeline: 3-6 months vs. Within 1 month."
+    ],
+    "hard_conflicts": [
+      "Different target cities: Ben Arous vs Tunis"
+    ],
+    "compromise": "No compromise was reached or attempted due to the fundamental nature of the conflicts.",
+    "negotiation_log_id": "de60c221-be30-48f0-a15d-1826d5e2e8ad",
+    "created_at": "2026-09-27T15:15:30.896626Z",
+    "id": "a3465d41-30e7-4f30-8c19-4e51eb49c2e6"
+  }
+]
